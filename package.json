@@ -1,0 +1,23 @@
+{
+  "name": "exemplo_actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lu1zF3l1p3/exemplo_actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lu1zF3l1p3/exemplo_actions/issues"
+  },
+  "homepage": "https://github.com/Lu1zF3l1p3/exemplo_actions#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
